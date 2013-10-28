@@ -1,3 +1,4 @@
+            翻译中  Luox
 SmartGit 5 Preview 4 Gets Some Greta Features
 ================================================================================
 **SmartGit, a graphical client for the version control systems Git and Mercurial with optimized workflows for multiple platforms, is now at version 5 Preview 4.**
